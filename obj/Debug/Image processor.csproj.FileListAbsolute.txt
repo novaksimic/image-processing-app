@@ -1,0 +1,26 @@
+C:\Users\Simic\Documents\Visual Studio 2015\Projects\Grayscale\Grayscale\obj\Debug\Imageprocessor.frmImgProcessor.resources
+C:\Users\Simic\Documents\Visual Studio 2015\Projects\Grayscale\Grayscale\obj\Debug\Grayscale.Properties.Resources.resources
+C:\Users\Simic\Documents\Visual Studio 2015\Projects\Grayscale\Grayscale\obj\Debug\Image processor.csproj.GenerateResource.Cache
+C:\Users\Simic\Documents\Visual Studio 2015\Projects\Grayscale\Grayscale\obj\Debug\Grayscale.exe
+C:\Users\Simic\Documents\Visual Studio 2015\Projects\Grayscale\Grayscale\obj\Debug\Grayscale.pdb
+C:\Users\Simic\Documents\Visual Studio 2015\Projects\Grayscale\Grayscale\bin\Debug\Grayscale.exe.config
+C:\Users\Simic\Documents\Visual Studio 2015\Projects\Grayscale\Grayscale\bin\Debug\Grayscale.exe
+C:\Users\Simic\Documents\Visual Studio 2015\Projects\Grayscale\Grayscale\bin\Debug\Grayscale.pdb
+C:\Users\Simic\Documents\Visual Studio 2015\Projects\Grayscale\Image processor\bin\Debug\Grayscale.exe.config
+C:\Users\Simic\Documents\Visual Studio 2015\Projects\Grayscale\Image processor\obj\Debug\Grayscale.exe
+C:\Users\Simic\Documents\Visual Studio 2015\Projects\Grayscale\Image processor\obj\Debug\Grayscale.pdb
+C:\Users\Simic\Documents\Visual Studio 2015\Projects\Grayscale\Image processor\bin\Debug\Grayscale.exe
+C:\Users\Simic\Documents\Visual Studio 2015\Projects\Grayscale\Image processor\bin\Debug\Grayscale.pdb
+C:\Users\Simic\Documents\Visual Studio 2015\Projects\Grayscale\Image processor\obj\Debug\Image processor.csprojResolveAssemblyReference.cache
+C:\Users\Simic\Documents\Visual Studio 2015\Projects\Grayscale\Image processor\obj\Debug\Imageprocessor.frmImgProcessor.resources
+C:\Users\Simic\Documents\Visual Studio 2015\Projects\Grayscale\Image processor\obj\Debug\Grayscale.Properties.Resources.resources
+C:\Users\Simic\Documents\Visual Studio 2015\Projects\Grayscale\Image processor\obj\Debug\Image processor.csproj.GenerateResource.Cache
+C:\Users\Simic\Documents\Visual Studio 2015\Projects\Image processor\Image processor\bin\Debug\Grayscale.exe.config
+C:\Users\Simic\Documents\Visual Studio 2015\Projects\Image processor\Image processor\obj\Debug\Grayscale.exe
+C:\Users\Simic\Documents\Visual Studio 2015\Projects\Image processor\Image processor\obj\Debug\Grayscale.pdb
+C:\Users\Simic\Documents\Visual Studio 2015\Projects\Image processor\Image processor\bin\Debug\Grayscale.exe
+C:\Users\Simic\Documents\Visual Studio 2015\Projects\Image processor\Image processor\bin\Debug\Grayscale.pdb
+C:\Users\Simic\Documents\Visual Studio 2015\Projects\Image processor\Image processor\obj\Debug\Image processor.csprojResolveAssemblyReference.cache
+C:\Users\Simic\Documents\Visual Studio 2015\Projects\Image processor\Image processor\obj\Debug\Imageprocessor.frmImgProcessor.resources
+C:\Users\Simic\Documents\Visual Studio 2015\Projects\Image processor\Image processor\obj\Debug\Grayscale.Properties.Resources.resources
+C:\Users\Simic\Documents\Visual Studio 2015\Projects\Image processor\Image processor\obj\Debug\Image processor.csproj.GenerateResource.Cache
